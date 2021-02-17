@@ -38,14 +38,33 @@ app.get('/categories', async (req, res) => {
       categoriasMaked.push(achei)
     });
 
-
-
     res.send(categoriasMaked)
     res.end();
   } catch (err) {
     res.status(400).send({ error: err.message })
   }
 })
+
+
+app.get('/trails', async (req, res) => {
+  const categorias = []
+  const categoriasMaked = []
+  try {
+    const data = JSON.parse(await fs.readFileSync('moldeCursos.json'))
+
+    data.cursos.forEach(element => {
+      if (categorias.indexOf(element.categoria) === -1) {
+        categorias.push(element.categoria)
+      }
+    });
+
+    res.send(categorias.sort())
+    res.end();
+  } catch (err) {
+    res.status(400).send({ error: err.message })
+  }
+})
+
 
 
 

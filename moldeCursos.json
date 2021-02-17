@@ -1,9 +1,10 @@
 {
   "cursos": [
     {
+      "id": 1,
       "nomeCurso": "Falando Japonês do Zero",
       "descricaoCurso": "Falando Japonês do Zero. É um passo a passo para você entrar, conhecer e compreender o idioma japonês. Muitas pessoas tentam aprender japonês, mas se frustram logo nos primeiros meses porquê: Querem muito aprender, mas não sabem por onde começar; Ficam confusas com tanta informação bagunçada na internet; Não tem tempo para fazer curso presencial; Até sabem algumas frases, mas se confundem com sentenças longas. Este curso irá te proporcionar uma didática simples e prática para você sair de cada aula com uma visão muito clara sobre cada conteúdo baseado em um japonês 100% nativo.",
-      "conteudoCurso": "Falando Japonês do Zero. É um passo a passo para você entrar, conhecer e compreender o idioma japonês. Muitas pessoas tentam aprender japonês, mas se frustram logo nos primeiros meses porquê: Querem muito aprender, mas não sabem por onde começar; Ficam confusas com tanta informação bagunçada na internet; Não tem tempo para fazer curso presencial; Até sabem algumas frases, mas se confundem com sentenças longas. Este curso irá te proporcionar uma didática simples e prática para você sair de cada aula com uma visão muito clara sobre cada conteúdo baseado em um japonês 100% nativo.",
+      "conteudoCurso": "Falando Japonês do Zero.\n\nÉ um passo a passo para você entrar, conhecer e compreender o idioma japonês.\n\nMuitas pessoas tentam aprender japonês, mas se frustram logo nos primeiros meses porquê: \n\n- Querem muito aprender, mas não sabem por onde começar; \n- Ficam confusas com tanta informação bagunçada na internet;\n- Não tem tempo para fazer curso presencial;\n- Até sabem algumas frases, mas se confundem com sentenças longas. \n\nEste curso irá te proporcionar uma didática simples e prática para você sair de cada aula com uma visão muito clara sobre cada conteúdo baseado em um japonês 100% nativo.",
       "idioma": "Português (Brasil)",
       "emailProdutor": "naoki@fjzero.com.br",
       "categoria": "Idiomas",
@@ -20,9 +21,10 @@
       }
     },
     {
+      "id": 2,
       "nomeCurso": "EU SOU POETA",
-      "descricaoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas. Com técnica, emoção e estilo. A missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público. Cairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário. Manteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos. Tem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão. Muitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
-      "conteudoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas. Com técnica, emoção e estilo. A missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público. Cairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário. Manteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos. Tem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão. Muitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
+      "descricaoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas.\n\nCom técnica, emoção e estilo.\n\nA missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público.\n\n Cairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário. Manteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos. Tem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão. Muitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
+      "conteudoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas com técnica, emoção e estilo. \nA missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público.\n\nCairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário.\n\nManteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos.\n\nTem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão.\n\nMuitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@cairotrindade.com",
       "categoria": "Literatura",
@@ -39,9 +41,10 @@
       }
     },
     {
+      "id": 3,
       "nomeCurso": "Seu Negócio Online Sem Estoque + Fornecedores.",
       "descricaoCurso": "Olá, para você que quer se afiliar ao nosso produto proporcionamos uma taxa de 30% de comissionamento em cima do valor total da venda. Qualquer dúvida à respeito do produto, entre em contato conosco. #PlayNoProjeto",
-      "conteudoCurso": "odos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso. Através dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional. Agora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!! Vem com a B-Academy!",
+      "conteudoCurso": "Todos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso.\n\nAtravés dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional.\n\nAgora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!!\n\nVem com a B-Academy!",
       "idioma": "Português (Brasil)",
       "emailProdutor": "contatobacademybr@gmail.com",
       "categoria": "Educacional",
@@ -58,9 +61,10 @@
       }
     },
     {
+      "id": 4,
       "nomeCurso": "Sketching Automotivo",
       "descricaoCurso": "Este é o curso ideal para desenvolver suas técnicas! Nossa metodologia é bem didática, aprimorada e estruturada, de acordo com o que é utilizado nos principais estúdios de design automotivo, com os recursos necessários para trazer todo o seu potencial à tona, de maneira prática e eficaz. CHEGA de errar as perspectivas! CHEGA de ficar insatisfeito com os resultados! SEJA CAPAZ DE: • Representar suas ideias de forma realista • Posicionar a perspectiva do carro na proporção correta • Trabalhar o peso de linhas e hachuras de forma equilibrada • Desenvolver composições de ideias para apresentações profissionais",
-      "conteudoCurso": "odos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso. Através dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional. Agora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!! Vem com a B-Academy!",
+      "conteudoCurso": "Todos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso. Através dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional. Agora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!! Vem com a B-Academy!",
       "idioma": "Português (Brasil)",
       "emailProdutor": "sketchitcurso@gmail.com",
       "categoria": "Design",
@@ -77,9 +81,10 @@
       }
     },
     {
+      "id": 5,
       "nomeCurso": "Python Completo - Do Júnior ao Sênior",
       "descricaoCurso": "Fala Afilado, beleza? Seja bem vindo ao nosso curso de Python! Nós da ByLearn estamos liberando as vendas do nosso curso para afiliados e esperamos que você faça parte do time! Nosso curso atualmente é o Curso de Python Mais Completo do Brasil!!! Temos mais de 20 horas de conteúdo e muito mais por vir, sempre mantendo o curso atualizado e com a qualidade máxima! Ao todo a ByLearn possui mais de 28.000 alunos e mais de 1.300 avaliações positivas :) Sabia que nosso curso é 5 estrelas tanto aqui na avaliação da Hotmart quanto no Facebook? Juntos, certamente aumentaremos ainda mais o nosso número de alunos e continuaremos com nossa qualificação máxima de qualidade! Ah, e o melhor, todo Afiliado tem acesso direto comigo (Felipe) e todos os demais membros da equipe e nós iremos de ajudar 24 horas por dia, 7 dias por semana, afinal, agora você será da família :) Além dos conteúdos disponíveis aqui na Hotmart (como Hotleads, template de e-mail, imagens de divulgação e videos promocionais) nós temos também vários outros recursos (como até mesmo copys e listas de e-mail) para ajudar VOCÊ a lucrar mais! Para isso, e pra qualquer outra informação, basta nos mandar uma mensagem no facebook (facebook.com/bylearn), instagram (intagram.com/bylearn) ou pelo e-mail (contato@bylearn.com.br) 😀 Viu só? Não tem porque não se afiliar agora ao curso de Python mais completo do Brasil!!! Fico te esperando e espero que essa nossa parceria dê bons frutos ❤! Para participar no Telegram: https://t.me/joinchat/LRYj_hiJaezYYe1iusB-1A Para participar no Facebook: https://www.facebook.com/groups/afiliadosbl Abraços, Felipe.",
-      "conteudoCurso": "Você acha que programação é um bicho de 7 cabeças? Está na hora de rever seus conceitos! A programação Python é fácil e você aprende sem mistérios. 🔮 É por isso que ela se tornou a queridinha entre os programadores, se tornando a linguagem que mais cresce no mundo todo. 😎 E sabe o que é o melhor disso? Você pode se tornar um programador Python e aproveitar as muitas vagas disponíveis! Quer descobrir como? Então venha conosco no curso de Python mais completo do Brasil!",
+      "conteudoCurso": "Você acha que programação é um bicho de 7 cabeças? Está na hora de rever seus conceitos!\n\nA programação Python é fácil e você aprende sem mistérios. 🔮\n\nÉ por isso que ela se tornou a queridinha entre os programadores, se tornando a linguagem que mais cresce no mundo todo. 😎 \n\nE sabe o que é o melhor disso? Você pode se tornar um programador Python e aproveitar as muitas vagas disponíveis! \n\nQuer descobrir como? \n\nEntão venha conosco no curso de Python mais completo do Brasil!",
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@bylearn.com.br",
       "categoria": "Tecnologia da Informação",
@@ -96,9 +101,10 @@
       }
     },
     {
+      "id": 6,
       "nomeCurso": "Legislação Facilitada para Carreiras Policiais - Plano de Leitura 15 Dias",
       "descricaoCurso": "Afiliado recebe 50% de comissão! CONTATO DO PRODUTOR: Whatsapp: 085 99761-9281 ou Email: contato@legislacaofacilitada.com.br (Solicite a lista de e-mails para Anúncios)- ARTES: https://drive.google.com/drive/folders/1PCnh_6yEncJ7LIdF80RO7dRgPQjcR6TV?usp=sharing //////////// SOBRE: Plano de Leitura em 15 dias para Carreiras Policiais. Mais de 30 leis com o MELHOR CUSTO/BENEFÍCIO do mercado. Legislação com Marcações, Súmulas e Comentários pontuais. Conforme o PACOTE ANTICRIME PDF - 339 Páginas",
-      "conteudoCurso": "Legislação Facilitada para Carreiras Policiais - Leitura em 15 Dias (Agente - Inspetor - Escrivão)Abordamos nesse Plano de Leitura – CARREIRAS POLICIAIS 2020 – as principais leis exigidas para os cargos de AGENTE, INSPETOR e ESCRIVÃO das Polícias Civis, buscando implementar uma leitura direcionada e objetiva. Diferentemente de um Vade Mecum tradicional, cada dia de leitura contempla leis e dispositivos diversos, de forma a tornar o estudo mais agradável e diversificado. Incorporamos, ainda, diversas ferramentas com o intuito de facilitar o estudo da legislação: MARCAÇÕES SÚMULAS COMENTÁRIOS PONTUAIS TABELAS * Os recursos empregados variam de acordo com a legislação. * Legislação atualizada conforme o PACOTE ANTICRIME",
+      "conteudoCurso": "Legislação Facilitada para Carreiras Policiais - Leitura em 15 Dias (Agente - Inspetor - Escrivão)\n\nAbordamos nesse Plano de Leitura\n\n– CARREIRAS POLICIAIS 2020 \n– as principais leis exigidas para os cargos de AGENTE, INSPETOR e ESCRIVÃO das Polícias Civis, buscando implementar uma leitura direcionada e objetiva. Diferentemente de um Vade Mecum tradicional, cada dia de leitura contempla leis e dispositivos diversos, de forma a tornar o estudo mais agradável e diversificado. Incorporamos, ainda, diversas ferramentas com o intuito de facilitar o estudo da legislação: MARCAÇÕES SÚMULAS COMENTÁRIOS PONTUAIS TABELAS\n\n* Os recursos empregados variam de acordo com a legislação. \n\n* Legislação atualizada conforme o PACOTE ANTICRIME",
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@legislacaofacilitada.com.br",
       "categoria": "Direito",
@@ -106,7 +112,7 @@
       "temperatura": "19",
       "blueprint": "86",
       "satisfacao": "5",
-      "thumb": "",
+      "thumb": "https://static-media.hotmart.com/3l5viVIw0a-PcSsb-b08zTRv4ic=/filters:background_color(white)/hotmart/product_pictures/fa5c05f2-51d5-4764-b333-134fec609ba0/CARREIRAS2.png",
       "divulgacao": {
         "linkMaterial": "",
         "videoExperimental": "",
@@ -115,9 +121,10 @@
       }
     },
     {
+      "id": 7,
       "nomeCurso": "Cronograma de Estudos ENEM 2020 + Bônus",
       "descricaoCurso": "Olá Afiliado, tudo bem? O Cronograma de Estudos ENEM 2020 + BÔNUS é um infoproduto, composto por PDF's voltados para o estudo dos participantes do ENEM 2020, estruturado de forma a facilitar a organização e o estudo dos vestibulandos. Além disso, ao adquirir o Cronograma o comprador recebe os bônus inclusos: Lista com os possíveis temas da redação do ENEM 2020, controle de redações, planners mensais, semanais, diários, financeiros, alimentar etc. O infoproduto é de alta conversão por possuir um ticket baixo (R$ 27,00) e um público abrangente (5,1 milhões de pessoas inscreveram-se no ENEM 2019). Sua principal vantagem ao se afiliar ao produto, além da alta demanda, é a comissão de 55% por venda (R$ 12,83). Convidamos a todos studygram's, influenciadores do nicho de estudos e outros a se afiliarem a nosso produto, caso tenham qualquer dúvida, favor entrar em contato via nosso email de suporte: contato@studyet.com.br ou pelo Intagram: @study.et. - Material de Divulgação: http: //bit.ly/materialcronograma - Grupo de Afiliados no Telegram: https: //bit.ly/telegramcronograma",
-      "conteudoCurso": "O Cronograma de Estudos ENEM 2020 tem o intuito de auxiliar os vestibulandos do Exame Nacional do Ensino Médio 2020, neste PDF criado pelo perfil do instagram @study.et, você vai encontrar todas as matérias que podem ser abordadas na prova. Além disso, o documento possui uma tabela que auxilia o estudante a se organizar melhor nos seus estudos em forma de checklist. Ao adquirir o Cronograma de Estudos ENEM 2020, você também recebe como bônus os seguintes materiais: Planejadores mensais, semanais, diários, financeiros e alimentares, módulo contendo 50 possíveis temas da Redação do ENEM 2020 e um controle de redação.",
+      "conteudoCurso": "O Cronograma de Estudos ENEM 2020 tem o intuito de auxiliar os vestibulandos do Exame Nacional do Ensino Médio 2020, neste PDF criado pelo perfil do instagram @study.et, você vai encontrar todas as matérias que podem ser abordadas na prova.\n\nAlém disso, o documento possui uma tabela que auxilia o estudante a se organizar melhor nos seus estudos em forma de checklist.\n\nAo adquirir o Cronograma de Estudos ENEM 2020, você também recebe como bônus os seguintes materiais: Planejadores mensais, semanais, diários, financeiros e alimentares, módulo contendo 50 possíveis temas da Redação do ENEM 2020 e um controle de redação.",
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@studyet.com.br",
       "categoria": "Educacional",
@@ -134,9 +141,10 @@
       }
     },
     {
+      "id": 8,
       "nomeCurso": "Curso Treinamento Wh1skj",
       "descricaoCurso": "Treinamento para jogo Free Fire, desenvolvido pelo jogador Wh1skjyj (Lucas) Melhor jogador da atualidade na categoria AWN, já tem seu potencial reconhecido no mercado no mundo gamer. Wh1skyj tem dois campeonato mundial de croofire e 4 nacional de croofire",
-      "conteudoCurso": "Quer ser tornar verdadeiro Pro Player, treine com quem sabe de verdade, Curso Ministrado por Wh1skyj. Campeão Mundial de CrossFire melhor atirador de AWM na atualidade no Free Fire, Atleta da LGD. Nesse curso você ira aprender: Baixar Melhor Versão do Emulador e Saber Configurar Puxar Capa com Armas Normais Movimentar e Ver Safe dentro da Partida Rushar em Casas e Rotacionar no Mapa Troca Rápida de AWM Atirar Rápido de AWM com a Mira Técnica QS (QUICK SCOPE) Rápidos. Assinante do curso tem acesso exclusivo ao telegram com dicas diária e conteúdo relacionado ao jogo e oferta de produtos.",
+      "conteudoCurso": "Quer ser tornar verdadeiro Pro Player? Treine com quem sabe de verdade!\n\nCurso Ministrado por Wh1skyj. Campeão Mundial de CrossFire melhor atirador de AWM na atualidade no Free Fire, Atleta da LGD.\n\nNesse curso você ira aprender:\n\n- Baixar Melhor Versão do Emulador;\n- Saber Configurar Puxar Capa com Armas Normais;\n- Movimentar e Ver Safe dentro da Partida;\n- Rushar em Casas e Rotacionar no Mapa;\n- Troca Rápida de AWM;\n- Atirar Rápido de AWM com a Mira Técnica;\n- QS (QUICK SCOPE) Rápidos.\n\nAssinante do curso tem acesso exclusivo ao telegram com dicas diária e conteúdo relacionado ao jogo e oferta de produtos.",
       "idioma": "Português (Brasil)",
       "emailProdutor": "comercial@wh1skyj.com",
       "categoria": "Entretenimento",
@@ -153,7 +161,8 @@
       }
     },
     {
-      "nomeCurso": "Cronograma de Estudos ENEM 2020 + Bônus",
+      "id": 9,
+      "nomeCurso": "Curso Maquiagem Perfeita",
       "descricaoCurso": "",
       "conteudoCurso": "Disparadamente, o curso de Automaquiagem mais completo do Brasil! - 46 Vídeo aulas passo a passo - Make dia, Make natural, Make noite, Make clássica, Make madrinha, Make Noiva, Make colorida, Make com Glitter, Smokey Eyes, Cut Crease aberto, Cut Crease fechado, Double Cut crease, Delineado Gatinho, Delineado gatinho duplo, Esfumado colorido, Olhos Pretos, Pálpebra Luz, Olho Glam e muito mais... Além disso, as alunas irão aprender absolutamente tudo sobre produtos para a pele, produtos para os lábios, produtos para os olhos, sobrancelhas, e muito mais! ❤️❤️ #Bônus Exclusivos 1) Além de se tornar especialista em Automaquiagem, elas também irão aprender dar aulas para outras meninas aonde moram! (Nenhum curso ensina isso)2) Além disso, elas ganharão de bônus um Workshop Make Pro - 3 Makes famosas em clientes! 3) Mais de 60 horas de lives gravadas, com tutoriais passo a passo, são mais de 30 lives já feita e até o fim de 2020 serão mais de 100 lives. 4) Certificado 5) Acesso vitalício",
       "idioma": "Português (Brasil)",
@@ -172,6 +181,7 @@
       }
     },
     {
+      "id": 10,
       "nomeCurso": "Fórmula Tecladista",
       "descricaoCurso": "Tudo bem? O Treinamento Fórmula Tecladista é Um Projeto Grandioso... Conta com 9 módulos de base para estudo com aulas práticas, Possui Bônus excepcionais e já está sendo lançado com mais de 60 vídeo aulas gravadas na sua bem organizada e moderna área de membros. O treinamento tem um valor percebido muito grande, converte muito bem. A página de vendas está linda e tem todos os elementos de conversão e persuasão. Além de um vídeo de vendas que converte muito bem, ainda tenho uma sequencia de autoresponder que tem uma conversão muito boa! Portanto os seus esforços não serão desperdiçados, se quiser podemos crescer juntos e nada mais justo do que repassar 50% de comissão! Sozinho talvez possa ir mais rápido, mas juntos vamos mais longe!",
       "conteudoCurso": "O Inigualável Treinamento Formula Tecladista é um curso com área de membros totalmente em vídeo aulas que ensinam o aluno passo a passo e do inicio ao fim Como Aprender a Tocar Teclado e Piano Popular de forma fluente... mesmo que ele nunca tenha tocado antes. Eu literalmente pego o aluno pela mão e guio durante todo o processo, mostrando cada etapa nos mínimos detalhes. O Curso possui 9 módulos. Já na fase de lançamento ele possui mais de 60 Vídeo Aulas onde eu vou desde os Passos Iniciais até o nível avançado onde o aluno passará a caminhar de forma criativa com os seus próprios passos. Ele terá condições para isso com as suas percepções desenvolvidas. Esta é a finalidade última do Treinamento. Os Bônus complementam a obra com: 1- Mini Curso de Teoria e Solfejo Rítmico. 2- Os 10 Primeiros Exercícios de Hanon. 3- The Secret Key - 12 aulas extraordinárias com o tecladista argentino Cristian Del Giorgio Comprei os direitos de revenda deste para presentear os meus alunos!",
@@ -191,6 +201,7 @@
       }
     },
     {
+      "id": 11,
       "nomeCurso": "Fórmula Tecladista (Duplicado)",
       "descricaoCurso": "Tudo bem? O Treinamento Fórmula Tecladista é Um Projeto Grandioso... Conta com 9 módulos de base para estudo com aulas práticas, Possui Bônus excepcionais e já está sendo lançado com mais de 60 vídeo aulas gravadas na sua bem organizada e moderna área de membros. O treinamento tem um valor percebido muito grande, converte muito bem. A página de vendas está linda e tem todos os elementos de conversão e persuasão. Além de um vídeo de vendas que converte muito bem, ainda tenho uma sequencia de autoresponder que tem uma conversão muito boa! Portanto os seus esforços não serão desperdiçados, se quiser podemos crescer juntos e nada mais justo do que repassar 50% de comissão! Sozinho talvez possa ir mais rápido, mas juntos vamos mais longe!",
       "conteudoCurso": "O Inigualável Treinamento Formula Tecladista é um curso com área de membros totalmente em vídeo aulas que ensinam o aluno passo a passo e do inicio ao fim Como Aprender a Tocar Teclado e Piano Popular de forma fluente... mesmo que ele nunca tenha tocado antes. Eu literalmente pego o aluno pela mão e guio durante todo o processo, mostrando cada etapa nos mínimos detalhes. O Curso possui 9 módulos. Já na fase de lançamento ele possui mais de 60 Vídeo Aulas onde eu vou desde os Passos Iniciais até o nível avançado onde o aluno passará a caminhar de forma criativa com os seus próprios passos. Ele terá condições para isso com as suas percepções desenvolvidas. Esta é a finalidade última do Treinamento. Os Bônus complementam a obra com: 1- Mini Curso de Teoria e Solfejo Rítmico. 2- Os 10 Primeiros Exercícios de Hanon. 3- The Secret Key - 12 aulas extraordinárias com o tecladista argentino Cristian Del Giorgio Comprei os direitos de revenda deste para presentear os meus alunos!",
