@@ -10,5 +10,5 @@
     "nodemon": "^2.0.7"
   },
   "type": "module",
-  "start": "nodemon --experimental-modules index.js"
+  "start": "node --experimental-modules index.js"
 }
