@@ -2,7 +2,7 @@ import express from 'express'
 import fs from 'fs'
 import cors from 'cors'
 
-import port from './.env'
+//app.set('port', (process.env.PORT || 5000));
 
 const app = express()
 app.use(cors())
@@ -71,6 +71,6 @@ app.get('/trails', async (req, res) => {
 
 
 
-app.listen(port, () => {
+app.listen(process.env.PORT || 3001, () => {
   console.log(`API Iniciada`)
 })
