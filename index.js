@@ -2,9 +2,11 @@ import express from 'express'
 import fs from 'fs'
 import cors from 'cors'
 
+import port from './env'
+
 const app = express()
 app.use(cors())
-const port = 3001
+//const port = 3001
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
