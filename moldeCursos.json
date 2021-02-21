@@ -8,7 +8,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "naoki@fjzero.com.br",
       "categoria": "Idiomas",
-	  "formato":"",
+      "formato": "",
       "preco": "997,00",
       "temperatura": "15",
       "blueprint": "92",
@@ -20,9 +20,9 @@
         "textoDivulgacao": "",
         "site": "https://fjzero.com.br/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@cairotrindade.com",
       "categoria": "Literatura",
-	  "formato":"",
+      "formato": "",
       "preco": "497,04",
       "temperatura": "17",
       "blueprint": "100",
@@ -44,9 +44,9 @@
         "textoDivulgacao": "",
         "site": "https://cairotrindade.com.br/eusoupoeta"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 3,
@@ -56,8 +56,8 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "contatobacademybr@gmail.com",
       "categoria": "Educacional",
-      "formato":"",
-	  "preco": "1497,00",
+      "formato": "",
+      "preco": "1497,00",
       "temperatura": "12",
       "blueprint": "82",
       "satisfacao": "4.07",
@@ -68,9 +68,9 @@
         "textoDivulgacao": "",
         "site": "http://lucassouza.info/exclusivo"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 4,
@@ -80,7 +80,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "sketchitcurso@gmail.com",
       "categoria": "Design",
-	  "formato":"",
+      "formato": "",
       "preco": "547,00",
       "temperatura": "18",
       "blueprint": "83",
@@ -92,9 +92,9 @@
         "textoDivulgacao": "",
         "site": "https://sketchitbr.com/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 5,
@@ -104,7 +104,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@bylearn.com.br",
       "categoria": "Tecnologia da Informação",
-	  "formato":"",
+      "formato": "",
       "preco": "447,00",
       "temperatura": "12",
       "blueprint": "92",
@@ -116,9 +116,9 @@
         "textoDivulgacao": "",
         "site": "https://python.bylearn.com.br/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 6,
@@ -128,7 +128,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@legislacaofacilitada.com.br",
       "categoria": "Direito",
-	  "formato":"",
+      "formato": "",
       "preco": "89,90",
       "temperatura": "19",
       "blueprint": "86",
@@ -140,9 +140,9 @@
         "textoDivulgacao": "",
         "site": "https://livros.revisaoconstitucional.com/plano-de-leitura-15-dias-carreiras-policiais/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 7,
@@ -152,8 +152,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "contato@studyet.com.br",
       "categoria": "Educacional",
-	  "formato":"",
-	  "formato":"",
+      "formato": "",
       "preco": "27,00",
       "temperatura": "17",
       "blueprint": "84",
@@ -165,9 +164,9 @@
         "textoDivulgacao": "",
         "site": "http://launchupmkt.kpages.online/cronograma-enem2020-studyet"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 9,
@@ -177,7 +176,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "tiago.ferreira.reis@outlook.com",
       "categoria": "Moda e Beleza",
-	  "formato":"",
+      "formato": "",
       "preco": "399,90",
       "temperatura": "20",
       "blueprint": "86",
@@ -189,9 +188,9 @@
         "textoDivulgacao": "",
         "site": "https://maquiagemperfeita.com.br/1"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 10,
@@ -201,7 +200,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "cursopianoparatodos@gmail.com",
       "categoria": "Música e Artes",
-	  "formato":"",
+      "formato": "",
       "preco": "347,00",
       "temperatura": "17",
       "blueprint": "100",
@@ -213,9 +212,9 @@
         "textoDivulgacao": "",
         "site": "https://formulatecladista.com/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     },
     {
       "id": 11,
@@ -225,7 +224,7 @@
       "idioma": "Português (Brasil)",
       "emailProdutor": "cursopianoparatodos@gmail.com",
       "categoria": "Música e Artes",
-	  "formato":"",
+      "formato": "",
       "preco": "347,00",
       "temperatura": "17",
       "blueprint": "100",
@@ -237,9 +236,9 @@
         "textoDivulgacao": "",
         "site": "https://formulatecladista.com/"
       },
-	  "comprar":{
-		"hotlink": ""
-	  }
+      "comprar": {
+        "hotlink": ""
+      }
     }
   ]
 }
