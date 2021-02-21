@@ -2,7 +2,7 @@ import express from 'express'
 import fs from 'fs'
 import cors from 'cors'
 
-import port from './env'
+import port from './.env'
 
 const app = express()
 app.use(cors())
