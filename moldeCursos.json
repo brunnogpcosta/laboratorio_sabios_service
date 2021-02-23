@@ -2,243 +2,509 @@
   "cursos": [
     {
       "id": 1,
-      "nomeCurso": "Falando Japonês do Zero",
-      "descricaoCurso": "Falando Japonês do Zero. É um passo a passo para você entrar, conhecer e compreender o idioma japonês. Muitas pessoas tentam aprender japonês, mas se frustram logo nos primeiros meses porquê: Querem muito aprender, mas não sabem por onde começar; Ficam confusas com tanta informação bagunçada na internet; Não tem tempo para fazer curso presencial; Até sabem algumas frases, mas se confundem com sentenças longas. Este curso irá te proporcionar uma didática simples e prática para você sair de cada aula com uma visão muito clara sobre cada conteúdo baseado em um japonês 100% nativo.",
-      "conteudoCurso": "Falando Japonês do Zero.\n\nÉ um passo a passo para você entrar, conhecer e compreender o idioma japonês.\n\nMuitas pessoas tentam aprender japonês, mas se frustram logo nos primeiros meses porquê: \n\n- Querem muito aprender, mas não sabem por onde começar; \n- Ficam confusas com tanta informação bagunçada na internet;\n- Não tem tempo para fazer curso presencial;\n- Até sabem algumas frases, mas se confundem com sentenças longas. \n\nEste curso irá te proporcionar uma didática simples e prática para você sair de cada aula com uma visão muito clara sobre cada conteúdo baseado em um japonês 100% nativo.",
+      "nomeCurso": "Manual Policial",
+      "conteudoCurso": "Este e-book de 487 questões comentadas das carreiras policiais. Além disso, o cliente receberá TRÊS E-BOOKS BÔNUS: a) e-book Apostila Anticrime; b) e-book Nova Lei de Abuso de Autoridade; e c) e-book Revisão do Concurseiro: Português.",
       "idioma": "Português (Brasil)",
-      "emailProdutor": "naoki@fjzero.com.br",
-      "categoria": "Idiomas",
-      "formato": "",
-      "preco": "997,00",
-      "temperatura": "15",
-      "blueprint": "92",
-      "satisfacao": "5.00",
-      "thumb": "https://static-media.hotmart.com/yyHwOtyeDY6m6qLepTjVWnqMuoE=/filters:background_color(white)/hotmart/product_pictures/f27465fc-97c8-4424-8886-4eb326be9ce3/fjzerologoproduto.png",
-      "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://fjzero.com.br/"
-      },
-      "comprar": {
-        "hotlink": ""
-      }
-    },
-    {
-      "id": 2,
-      "nomeCurso": "EU SOU POETA",
-      "descricaoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas.\n\nCom técnica, emoção e estilo.\n\nA missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público.\n\n Cairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário. Manteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos. Tem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão. Muitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
-      "conteudoCurso": "Desvende os mistérios da Poesia e domine as ferramentas literárias que farão você escrever poemas com técnica, emoção e estilo. \nA missão do curso online “Eu sou Poeta” é abrir sua consciência para a Poesia que há em tudo e dar as ferramentas para a escrita de poemas, orientar seus livros, além de estimular você a estudar, memorizar e apresentar sua obra para o público.\n\nCairo de Assis Trindade foi escritor, poeta, professor, editor, consultor e assessor literário.\n\nManteve a Editora Personal e a Oficina de Literatura Cairo Trindade por mais de 25 anos.\n\nTem poemas espalhados pela internet, ruas, rádios, museus, e até no Canal Curta e outros canais de televisão.\n\nMuitos poetas já passaram pela Escola Cairo Trindade e ganharam diversos prêmios. O Curso de Poesia existe desde 1993 e agora está formatado em curso online. Muitos alunos satisfeitos.",
-      "idioma": "Português (Brasil)",
-      "emailProdutor": "contato@cairotrindade.com",
-      "categoria": "Literatura",
-      "formato": "",
-      "preco": "497,04",
-      "temperatura": "17",
-      "blueprint": "100",
-      "satisfacao": "4.67",
-      "thumb": "https://static-media.hotmart.com/TjUxiZudzqjqBUuA4vFksXspA8E=/filters:background_color(white)/hotmart/product_pictures/4caa0722-6361-4fd8-8ff7-246606bca951/eusoupoeta.jpg",
-      "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://cairotrindade.com.br/eusoupoeta"
-      },
-      "comprar": {
-        "hotlink": ""
-      }
-    },
-    {
-      "id": 3,
-      "nomeCurso": "Seu Negócio Online Sem Estoque + Fornecedores.",
-      "descricaoCurso": "Olá, para você que quer se afiliar ao nosso produto proporcionamos uma taxa de 30% de comissionamento em cima do valor total da venda. Qualquer dúvida à respeito do produto, entre em contato conosco. #PlayNoProjeto",
-      "conteudoCurso": "Todos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso.\n\nAtravés dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional.\n\nAgora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!!\n\nVem com a B-Academy!",
-      "idioma": "Português (Brasil)",
-      "emailProdutor": "contatobacademybr@gmail.com",
-      "categoria": "Educacional",
-      "formato": "",
-      "preco": "1497,00",
-      "temperatura": "12",
-      "blueprint": "82",
-      "satisfacao": "4.07",
-      "thumb": "https://static-media.hotmart.com/fEuqkx1P7lGK6_j3CsKUaeuY1P0=/filters:background_color(white)/hotmart/product_pictures/0e76862a-1ed5-4425-9da1-6f491e352ec3/IMG_3617.jpg",
-      "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "http://lucassouza.info/exclusivo"
-      },
-      "comprar": {
-        "hotlink": ""
-      }
-    },
-    {
-      "id": 4,
-      "nomeCurso": "Sketching Automotivo",
-      "descricaoCurso": "Este é o curso ideal para desenvolver suas técnicas! Nossa metodologia é bem didática, aprimorada e estruturada, de acordo com o que é utilizado nos principais estúdios de design automotivo, com os recursos necessários para trazer todo o seu potencial à tona, de maneira prática e eficaz. CHEGA de errar as perspectivas! CHEGA de ficar insatisfeito com os resultados! SEJA CAPAZ DE: • Representar suas ideias de forma realista • Posicionar a perspectiva do carro na proporção correta • Trabalhar o peso de linhas e hachuras de forma equilibrada • Desenvolver composições de ideias para apresentações profissionais",
-      "conteudoCurso": "Todos nós sempre sonhamos em ter o próprio negócio e conquistar nossa liberdade financeira, mas nos faltava coragem pra isso. Através dos métodos e estratégias utilizados em nossos próprios negócios, desenvolvemos o melhor treinamento do Brasil, para te ajudar a tirar os seus projetos do papel, e conquistar seu lugar junto aos monstros do Dropshipping e Ecommerce nacional. Agora que você tomou a iniciativa, a equipe Business Academy tem o compromisso de te ajudar a chegar ao topo, e conquistar sua independência financeira! Nesse treinamento você vai aprender a como montar sua loja virtual do completo ZERO, e todas as estratégias pra bombar seu e-commerce e também sua loja física!! Vem com a B-Academy!",
-      "idioma": "Português (Brasil)",
-      "emailProdutor": "sketchitcurso@gmail.com",
-      "categoria": "Design",
-      "formato": "",
-      "preco": "547,00",
-      "temperatura": "18",
-      "blueprint": "83",
-      "satisfacao": "5.00",
-      "thumb": "https://static-media.hotmart.com/OlA5uPR0SfR58FaLY4vDq9h6gyM=/filters:background_color(white)/hotmart/product_pictures/5590590f-1e38-419a-82a6-0d145a955d2e/CAPAHOTMART12.jpg",
-      "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://sketchitbr.com/"
-      },
-      "comprar": {
-        "hotlink": ""
-      }
-    },
-    {
-      "id": 5,
-      "nomeCurso": "Python Completo - Do Júnior ao Sênior",
-      "descricaoCurso": "Fala Afilado, beleza? Seja bem vindo ao nosso curso de Python! Nós da ByLearn estamos liberando as vendas do nosso curso para afiliados e esperamos que você faça parte do time! Nosso curso atualmente é o Curso de Python Mais Completo do Brasil!!! Temos mais de 20 horas de conteúdo e muito mais por vir, sempre mantendo o curso atualizado e com a qualidade máxima! Ao todo a ByLearn possui mais de 28.000 alunos e mais de 1.300 avaliações positivas :) Sabia que nosso curso é 5 estrelas tanto aqui na avaliação da Hotmart quanto no Facebook? Juntos, certamente aumentaremos ainda mais o nosso número de alunos e continuaremos com nossa qualificação máxima de qualidade! Ah, e o melhor, todo Afiliado tem acesso direto comigo (Felipe) e todos os demais membros da equipe e nós iremos de ajudar 24 horas por dia, 7 dias por semana, afinal, agora você será da família :) Além dos conteúdos disponíveis aqui na Hotmart (como Hotleads, template de e-mail, imagens de divulgação e videos promocionais) nós temos também vários outros recursos (como até mesmo copys e listas de e-mail) para ajudar VOCÊ a lucrar mais! Para isso, e pra qualquer outra informação, basta nos mandar uma mensagem no facebook (facebook.com/bylearn), instagram (intagram.com/bylearn) ou pelo e-mail (contato@bylearn.com.br) 😀 Viu só? Não tem porque não se afiliar agora ao curso de Python mais completo do Brasil!!! Fico te esperando e espero que essa nossa parceria dê bons frutos ❤! Para participar no Telegram: https://t.me/joinchat/LRYj_hiJaezYYe1iusB-1A Para participar no Facebook: https://www.facebook.com/groups/afiliadosbl Abraços, Felipe.",
-      "conteudoCurso": "Você acha que programação é um bicho de 7 cabeças? Está na hora de rever seus conceitos!\n\nA programação Python é fácil e você aprende sem mistérios. 🔮\n\nÉ por isso que ela se tornou a queridinha entre os programadores, se tornando a linguagem que mais cresce no mundo todo. 😎 \n\nE sabe o que é o melhor disso? Você pode se tornar um programador Python e aproveitar as muitas vagas disponíveis! \n\nQuer descobrir como? \n\nEntão venha conosco no curso de Python mais completo do Brasil!",
-      "idioma": "Português (Brasil)",
-      "emailProdutor": "contato@bylearn.com.br",
-      "categoria": "Tecnologia da Informação",
-      "formato": "",
-      "preco": "447,00",
-      "temperatura": "12",
-      "blueprint": "92",
-      "satisfacao": "4.25",
-      "thumb": "https://static-media.hotmart.com/5doYepvzv-18Cq2ECpANIRvaqxQ=/filters:background_color(white)/hotmart/product_pictures/bdf69985-e7a9-45db-a108-fa000661df76/PythonCompletoJuniorSenior.png",
-      "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://python.bylearn.com.br/"
-      },
-      "comprar": {
-        "hotlink": ""
-      }
-    },
-    {
-      "id": 6,
-      "nomeCurso": "Legislação Facilitada para Carreiras Policiais - Plano de Leitura 15 Dias",
-      "descricaoCurso": "Afiliado recebe 50% de comissão! CONTATO DO PRODUTOR: Whatsapp: 085 99761-9281 ou Email: contato@legislacaofacilitada.com.br (Solicite a lista de e-mails para Anúncios)- ARTES: https://drive.google.com/drive/folders/1PCnh_6yEncJ7LIdF80RO7dRgPQjcR6TV?usp=sharing //////////// SOBRE: Plano de Leitura em 15 dias para Carreiras Policiais. Mais de 30 leis com o MELHOR CUSTO/BENEFÍCIO do mercado. Legislação com Marcações, Súmulas e Comentários pontuais. Conforme o PACOTE ANTICRIME PDF - 339 Páginas",
-      "conteudoCurso": "Legislação Facilitada para Carreiras Policiais - Leitura em 15 Dias (Agente - Inspetor - Escrivão)\n\nAbordamos nesse Plano de Leitura\n\n– CARREIRAS POLICIAIS 2020 \n– as principais leis exigidas para os cargos de AGENTE, INSPETOR e ESCRIVÃO das Polícias Civis, buscando implementar uma leitura direcionada e objetiva. Diferentemente de um Vade Mecum tradicional, cada dia de leitura contempla leis e dispositivos diversos, de forma a tornar o estudo mais agradável e diversificado. Incorporamos, ainda, diversas ferramentas com o intuito de facilitar o estudo da legislação: MARCAÇÕES SÚMULAS COMENTÁRIOS PONTUAIS TABELAS\n\n* Os recursos empregados variam de acordo com a legislação. \n\n* Legislação atualizada conforme o PACOTE ANTICRIME",
-      "idioma": "Português (Brasil)",
-      "emailProdutor": "contato@legislacaofacilitada.com.br",
+      "emailProdutor": "contato@revisaoconstitucional.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
       "categoria": "Direito",
-      "formato": "",
-      "preco": "89,90",
-      "temperatura": "19",
-      "blueprint": "86",
-      "satisfacao": "5",
-      "thumb": "https://static-media.hotmart.com/3l5viVIw0a-PcSsb-b08zTRv4ic=/filters:background_color(white)/hotmart/product_pictures/fa5c05f2-51d5-4764-b333-134fec609ba0/CARREIRAS2.png",
+	  "precoOriginal": "119,00",
+      "preco": "47,00",
+      "temperatura": "51",
+      "blueprint": "95",
+      "satisfacao": "4.79",
+      "thumb": "https://static-media.hotmart.com/zRCLiJOU_DxTMbll3zeopRKD2zc=/filters:background_color(white)/hotmart/product_pictures/342f31cd-a5da-46f3-854a-0b7cbc7c0687/CapaHotmart.png",
       "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://livros.revisaoconstitucional.com/plano-de-leitura-15-dias-carreiras-policiais/"
+        "site": "https://manualpolicial.revisaoconstitucional.com/?ref=H48217370X"
       },
-      "comprar": {
-        "hotlink": ""
-      }
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/U17988159E?ref=H48217370X&checkoutMode=0&bid=1614030175935"
+	  }
     },
-    {
-      "id": 7,
-      "nomeCurso": "Cronograma de Estudos ENEM 2020 + Bônus",
-      "descricaoCurso": "Olá Afiliado, tudo bem? O Cronograma de Estudos ENEM 2020 + BÔNUS é um infoproduto, composto por PDF's voltados para o estudo dos participantes do ENEM 2020, estruturado de forma a facilitar a organização e o estudo dos vestibulandos. Além disso, ao adquirir o Cronograma o comprador recebe os bônus inclusos: Lista com os possíveis temas da redação do ENEM 2020, controle de redações, planners mensais, semanais, diários, financeiros, alimentar etc. O infoproduto é de alta conversão por possuir um ticket baixo (R$ 27,00) e um público abrangente (5,1 milhões de pessoas inscreveram-se no ENEM 2019). Sua principal vantagem ao se afiliar ao produto, além da alta demanda, é a comissão de 55% por venda (R$ 12,83). Convidamos a todos studygram's, influenciadores do nicho de estudos e outros a se afiliarem a nosso produto, caso tenham qualquer dúvida, favor entrar em contato via nosso email de suporte: contato@studyet.com.br ou pelo Intagram: @study.et. - Material de Divulgação: http: //bit.ly/materialcronograma - Grupo de Afiliados no Telegram: https: //bit.ly/telegramcronograma",
-      "conteudoCurso": "O Cronograma de Estudos ENEM 2020 tem o intuito de auxiliar os vestibulandos do Exame Nacional do Ensino Médio 2020, neste PDF criado pelo perfil do instagram @study.et, você vai encontrar todas as matérias que podem ser abordadas na prova.\n\nAlém disso, o documento possui uma tabela que auxilia o estudante a se organizar melhor nos seus estudos em forma de checklist.\n\nAo adquirir o Cronograma de Estudos ENEM 2020, você também recebe como bônus os seguintes materiais: Planejadores mensais, semanais, diários, financeiros e alimentares, módulo contendo 50 possíveis temas da Redação do ENEM 2020 e um controle de redação.",
+	{
+      "id": 2,
+      "nomeCurso": "Estratégia Milionaria Para Afiliados",
+      "conteudoCurso": "Estratégia Milionária Para Afiliados é um treinamento em VÍDEO AULAS DETALHADAS, do iniciante ao avançado, onde ensino uma das minhas estratégias que mais me deu resultado como Afiliado Digital. Ela é responsável por faturamentos de 5 dígitos mensais e pode ser aplicada rapidamente. Os resultados, claro, só dependem do seu esforço e dedicação. Já são mais de 20.000 alunos. Identifiquei, aperfeiçoei e cheguei a uma estratégia realmente eficiente que eu NUNCA vi ninguém compartilhar. Não estou falando de BLA BLA BLA que você encontra no Youtube ou vê qualquer um ensinando na internet. Estou falando de algo sério, jamais compartilhado e que ninguém NUNCA ensinou. Não existe no mercado um treinamento dessa qualidade, em vídeo aulas, com suporte, por um preço absurdamente baixo que até parece piada!",
       "idioma": "Português (Brasil)",
-      "emailProdutor": "contato@studyet.com.br",
+      "emailProdutor": "afiliadosgiangarcia@gmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Internet",
+	  "precoOriginal": "197,00",
+      "preco": "197,00",
+      "temperatura": "11",
+      "blueprint": "100",
+      "satisfacao": "4.72",
+      "thumb": "https://static-media.hotmart.com/5XVZ-rtw2aFJZCLhK4HajIRvHI0=/filters:background_color(white)/hotmart/product_pictures/9d18df98-db24-4d51-a8b3-553bb1d6cadb/PostVermelhoeAzuldeFestaInfantilparaRedesSociais10.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/G48218637W"
+      },
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/S18581685I?off=j8xg5tak&ref=G48218637W&checkoutMode=0&bid=1614030809556"
+	  }
+    },
+	{
+      "id": 3,
+      "nomeCurso": "Glúteos ao Extremo - MBN",
+      "conteudoCurso": "O Glúteos ao Extremo - MBN, é um conjunto de técnica e ações elaboradas e reunidas em vídeo aulas, que ensina como aumentar e tonificar os músculos dos glúteos de forma natural. Através de ações simples realizadas em casa ou academias, é um guia completo, que aborda desde os treinos, a dieta e suplementação, tudo com uma linguagem clara e sucinta de forma que possa ser compreendida por todos. Além disso, o método Glúteos ao Extremo, traz para o publico feminino, uma novidade no assunto que mais incomoda as mulheres em geral, que a falta ou a pouca elevação na musculatura glútea, desta forma, o Curso Glúteos ao Extremo - MBN, aborda o tema e traz o que é de melhor para o desenvolvimento dos glúteos e pernas.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "atendeafiliados.ge@gmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Saúde e Esportes",
+	  "precoOriginal": "197,00",
+      "preco": "197,00",
+      "temperatura": "38",
+      "blueprint": "100",
+      "satisfacao": "4.42",
+      "thumb": "https://static-media.hotmart.com/b339TNs4B6mEUsQ_PaRZmIs56s4=/filters:background_color(white)/hotmart/product_pictures/8dd687c5-1262-4c35-9393-4b0ae0255236/CAPAHOTMARTGLUETEOSEXTREMO.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/N48219089W"
+      },
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/L18332289F?ref=N48219089W&checkoutMode=0&bid=1614031205786"
+	  }
+    },
+	{
+      "id": 4,
+      "nomeCurso": "Receitas Para Secar em 30 Dias 2.0",
+      "conteudoCurso": "O e-book Receitas Para Secar em 30 Dias foi um programa de emagrecimento muito vendido de 2019 e ele é um poderoso passo a passo para todas as pessoas que já estão cansadas em tentar emagrecer e não conseguir. Temos um Ebook de Receitas Secretas + E-book de Desafio de 30 Dias que estão funcionando com mais de 3000 pessoas dentro do Brasil e fora do Brasil. Imagine começar a ter resultados com 3, 5 dias? É o que algumas clientes estão tendo, mas não gostamos só de falar e sim mostrar e te ajudar a também chegar no seu resultado. Sim, os resultados são logo nos primeiros dias ou na primeira semana e te ajudaremos a atingi-lo com nosso suporte. O fato é que quando você iniciar a utilizar as receitas, seu corpo irá começar a passar por uma transformação incrível, trazendo de volta a sua saúde e auto-estima. Simbora emagrecer? Simbora Secar a barriguinha?",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "atendimento@receitasparasecar30d.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Saúde e Esportes",
+	  "precoOriginal": "97,00",
+      "preco": "97,00",
+      "temperatura": "150",
+      "blueprint": "100",
+      "satisfacao": "3.93",
+      "thumb": "https://static-media.hotmart.com/y2Oi1yQR1n94KA7cV5ahXPkXbUU=/filters:background_color(white)/hotmart/product_pictures/1d5ff60d-fb96-40f1-b5fd-ea03a770a229/LOGORECEITAS1.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/P48219554H"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/P48219554H?ap=0443"
+	  }
+    },
+	{
+      "id": 5,
+      "nomeCurso": "Desenhando sem Dom",
+      "conteudoCurso": "Desenhando sem Dom é um curso totalmente dedicado ao desenho colorido, onde o aluno vai aprender desde o Esboço até Diversas formas de Pintura e vai perceber que não é preciso de Dom pra fazer Desenhos incríveis, São 15 Módulos com mais de 60 Aulas incríveis onde explico parte por parte, Além de tudo isso eu atualizo o curso Direto, colocando coisas novas sempre. O Curso é totalmente em vídeo aulas, você pode assistir pelo celular, tablet ou computador, tem acompanhamento total do professor Tyago Rodrigues especialista no assunto e criador de conteúdo do canal mais amado do Youtube chamado Art Rodrigues, e ao final da conclusão do Curso ira receber o Certificado pra download assinado por mim e você terá garantia total de 7 dias caso não goste do produto e terá seu dinheiro de volta. Venha ser meu aluno e desenhar assim como eu.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "tytifreak@hotmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Entretenimento",
+	  "precoOriginal": "150,00",
+      "preco": "150,00",
+      "temperatura": "53,66",
+      "blueprint": "94",
+      "satisfacao": "4.88",
+      "thumb": "https://static-media.hotmart.com/Z3O3gK1Ki9N4qTKqJBTUISYTnew=/filters:background_color(white)/hotmart/product_pictures/7810f339-e73c-4e2c-8343-ba231bbb0cf9/PicsArt_1115040303.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/B48220094E"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/B48220094E?ap=0abe"
+	  }
+    },
+	{
+      "id": 6,
+      "nomeCurso": "Curso de Informática Empresarial",
+      "conteudoCurso": "Você terá acesso a 6 cursos completos em vídeo aulas, que você pode assistir quando e onde quiser pelo celular ou em qualquer outro dispositivo. Não é necessário ter computador para assistir as aulas. - Excel Avançado (16 Horas); - Linux e Libre Office (25 Horas); - Power Point (20 Horas); - Windows 10 (18 Horas); - Office para Empresas (44 Horas); - Excel Básico (31 Horas)",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliados@jovemempreendedor.org",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
       "categoria": "Educacional",
-      "formato": "eBooks, Documentos",
-      "preco": "27,00",
-      "temperatura": "17",
-      "blueprint": "84",
-      "satisfacao": "4.38",
-      "thumb": "https://static-media.hotmart.com/gMhZs83D7A3pMaFcepbpa9GcSxc=/filters:background_color(white)/hotmart/product_pictures/9baf760a-fed5-4b0e-8de1-96705ca27fb3/CronogramaENEM2020.png",
+	  "precoOriginal": "127,00",
+      "preco": "127,00",
+      "temperatura": "44",
+      "blueprint": "90",
+      "satisfacao": "4.60",
+      "thumb": "https://static-media.hotmart.com/Aqo0bNbVEI3cksnGh8iEwVkCZOs=/filters:background_color(white)/hotmart/product_pictures/44b8b67f-a0d7-4e92-ab67-707faf65c9a7/novalogo.jpg",
       "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "http://launchupmkt.kpages.online/cronograma-enem2020-studyet"
+        "site": "https://go.hotmart.com/W48220599I"
       },
-      "comprar": {
-        "hotlink": ""
-      }
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/A18014909L?off=j27viabu&checkoutMode=10&ref=W48220599I&bid=1614032655642"
+	  }
     },
-    {
+	{
+      "id": 7,
+      "nomeCurso": "Curso Designer Gráfico",
+      "conteudoCurso": "Curso online COMPLETO do iniciante ao profissional. Aprenda a criar artes profissionais e trabalhe para gráficas e agências. Como funciona o nosso curso de Design Gráfico? Curso 100% online com a comodidade de poder estudar em casa. Fazer nossos cursos é tão simples como assistir vídeos no YouTube Assista no seu Celular, Tablet ou Computador. Você pode estudar todos os dias e assim terminar o curso mais rápido. Pode rever as aulas quantas vezes quiser.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliados@jovemempreendedor.org",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Educacional",
+	  "precoOriginal": "297,00",
+      "preco": "297,00",
+      "temperatura": "31",
+      "blueprint": "90",
+      "satisfacao": "4.46",
+      "thumb": "https://static-media.hotmart.com/3pNLhLBdATdN8n3TJX45qVSXWsk=/filters:background_color(white)/hotmart/product_pictures/dd866a71-5855-4351-a7f9-566eef64b410/logo.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/W48220656H"
+      },
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/T18015107L?off=ygdfy2dt&checkoutMode=10&ref=W48220656H&bid=1614032989441"
+	  }
+    },
+	{
+      "id": 8,
+      "nomeCurso": "Apostila Sabonete Artesanal & Aromatizador de Ambiente",
+      "conteudoCurso": "Apostila de Sabonete Artesanal com mais de 70 receitas e dicas exclusivas de saboaria, essa apostila foi desenvolvida com o objetivo de ensinar o aluno a ganhar dinheiro e conquistar a sua independência financeira. O mercado de Sabonetes Artesanais é uma verdadeira mina de ouro para quem quer trabalhar e ganhar dinheiro, está em constante crescimento e a procura por produtos artesanais aumenta constantemente. Além de aprender a fabricar seus sabonetes artesanais vamos te ensinar a fazer sua própria base glicerinada. Você ainda terá acesso aos nossos Bônus Exclusivos.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "suporte@sabonetes-artesanais.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Educacional",
+	  "precoOriginal": "97,00",
+      "preco": "97,00.",
+      "temperatura": "40",
+      "blueprint": "100",
+      "satisfacao": "4.09",
+      "thumb": "https://static-media.hotmart.com/H4XEoarO3F-WoP5mq0e280rgKS0=/filters:background_color(white)/hotmart/product_pictures/e2c4e77f-43e4-4db2-bab9-6bcf7912614b/Hotmart80.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/M48221394C"
+      },
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/R18980360F?off=9h0q1590&checkoutMode=10&ref=M48221394C&bid=1614033299147"
+	  }
+    },
+	{
       "id": 9,
-      "nomeCurso": "Curso Maquiagem Perfeita",
-      "descricaoCurso": "",
-      "conteudoCurso": "Disparadamente, o curso de Automaquiagem mais completo do Brasil! - 46 Vídeo aulas passo a passo - Make dia, Make natural, Make noite, Make clássica, Make madrinha, Make Noiva, Make colorida, Make com Glitter, Smokey Eyes, Cut Crease aberto, Cut Crease fechado, Double Cut crease, Delineado Gatinho, Delineado gatinho duplo, Esfumado colorido, Olhos Pretos, Pálpebra Luz, Olho Glam e muito mais... Além disso, as alunas irão aprender absolutamente tudo sobre produtos para a pele, produtos para os lábios, produtos para os olhos, sobrancelhas, e muito mais! ❤️❤️ #Bônus Exclusivos 1) Além de se tornar especialista em Automaquiagem, elas também irão aprender dar aulas para outras meninas aonde moram! (Nenhum curso ensina isso)2) Além disso, elas ganharão de bônus um Workshop Make Pro - 3 Makes famosas em clientes! 3) Mais de 60 horas de lives gravadas, com tutoriais passo a passo, são mais de 30 lives já feita e até o fim de 2020 serão mais de 100 lives. 4) Certificado 5) Acesso vitalício",
+      "nomeCurso": "Kit do Designer Gospel 2.0",
+      "conteudoCurso": "Se você é Designer, Freelancer, Criador de conteúdo, e trabalha com Redes Sociais para Igrejas, Cantores, Pregadores ou Ministérios esse kit é para Você! O único do segmento Artes Gospel com tudo separadinho, com prévia do material antes de você baixar, Suporte Completo, Vídeo Aulas Completas ensinando passo a passo como efetuar as edições. Você vai receber mais de 700 Artes Totalmente Editáveis para Social Media de Igrejas e Ministérios editáveis no pc ou celular,, + de 60.000 fontes, +700 Imagens de Apoio, Apresentações Para Projetor, Pacote de Emojis, Planilhas, Gabaritos, Calendários e muuuito mais, com tudo que você precisa para aumentar o engajamento da sua Igreja ou Ministério! O Kit do Designer Gospel é o mais completo e bem organizado do Brasil, o único com atualizações semanais.",
       "idioma": "Português (Brasil)",
-      "emailProdutor": "tiago.ferreira.reis@outlook.com",
-      "categoria": "Moda e Beleza",
-      "formato": "",
-      "preco": "399,90",
-      "temperatura": "20",
-      "blueprint": "86",
-      "satisfacao": "4.91",
-      "thumb": "https://static-media.hotmart.com/MFFBWKmX6mc9Zhm4-j5o8yWuk40=/filters:background_color(white)/hotmart/product_pictures/d797b6f5-2a52-4c52-b606-c9ce7fc89c0b/WhatsAppImage20200702at0911171.jpeg",
+      "emailProdutor": "contato@kitdodesignergospel.com.br",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Design",
+	  "precoOriginal": "97,00",
+      "preco": "97,00.",
+      "temperatura": "57",
+      "blueprint": "92",
+      "satisfacao": "4.51",
+      "thumb": "https://static-media.hotmart.com/EKzrdJ772HrDGNZ6iXjUkjgwN6k=/filters:background_color(white)/hotmart/product_pictures/1e2d4d35-1253-44fa-b7ed-0bad8f95dcc6/novohotmart.png",
       "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://maquiagemperfeita.com.br/1"
+        "site": "https://go.hotmart.com/K48221941Attps://go.hotmart.com/M48221394C"
       },
-      "comprar": {
-        "hotlink": ""
-      }
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/D22486583A?checkoutMode=10&ref=K48221941A&bid=1614033764929"
+	  }
     },
-    {
+	{
       "id": 10,
-      "nomeCurso": "Fórmula Tecladista",
-      "descricaoCurso": "Tudo bem? O Treinamento Fórmula Tecladista é Um Projeto Grandioso... Conta com 9 módulos de base para estudo com aulas práticas, Possui Bônus excepcionais e já está sendo lançado com mais de 60 vídeo aulas gravadas na sua bem organizada e moderna área de membros. O treinamento tem um valor percebido muito grande, converte muito bem. A página de vendas está linda e tem todos os elementos de conversão e persuasão. Além de um vídeo de vendas que converte muito bem, ainda tenho uma sequencia de autoresponder que tem uma conversão muito boa! Portanto os seus esforços não serão desperdiçados, se quiser podemos crescer juntos e nada mais justo do que repassar 50% de comissão! Sozinho talvez possa ir mais rápido, mas juntos vamos mais longe!",
-      "conteudoCurso": "O Inigualável Treinamento Formula Tecladista é um curso com área de membros totalmente em vídeo aulas que ensinam o aluno passo a passo e do inicio ao fim Como Aprender a Tocar Teclado e Piano Popular de forma fluente... mesmo que ele nunca tenha tocado antes. Eu literalmente pego o aluno pela mão e guio durante todo o processo, mostrando cada etapa nos mínimos detalhes. O Curso possui 9 módulos. Já na fase de lançamento ele possui mais de 60 Vídeo Aulas onde eu vou desde os Passos Iniciais até o nível avançado onde o aluno passará a caminhar de forma criativa com os seus próprios passos. Ele terá condições para isso com as suas percepções desenvolvidas. Esta é a finalidade última do Treinamento. Os Bônus complementam a obra com: 1- Mini Curso de Teoria e Solfejo Rítmico. 2- Os 10 Primeiros Exercícios de Hanon. 3- The Secret Key - 12 aulas extraordinárias com o tecladista argentino Cristian Del Giorgio Comprei os direitos de revenda deste para presentear os meus alunos!",
+      "nomeCurso": "Guia Digital - Propagação De Suculentas Para Iniciantes!",
+      "conteudoCurso": "A maioria das pessoas acham que propagar Suculentas é simplesmente arrancar uma folha dela e jogar na terra, esperando por um milagre que ela brote e se torne uma suculenta saudável. Com este guia você vai aprender a forma correta e garantir melhores resultados nas suas propagações. Seus berçários nunca renderam tantas Suculentas quanto irão render após a leitura deste Guia Digital em formato de Livro. Multiplique suas suculentas em tempo record, reduzindo as chances de suculentas mortas e aumentando sua coleção rapidamente. Das fotos mais curtidas do Instagram e Pinterest para o seu jardim! A propagação na água não será mais um problema para você, com o passo a passo deste Guia Digital, as fotos mais curtidas agora serão DAS SUAS Suculentas na água!",
       "idioma": "Português (Brasil)",
-      "emailProdutor": "cursopianoparatodos@gmail.com",
-      "categoria": "Música e Artes",
-      "formato": "Cursos online, Área de Membros, Serviços de Assinatura",
-      "preco": "347,00",
-      "temperatura": "17",
-      "blueprint": "100",
-      "satisfacao": "3.58",
-      "thumb": "https://static-media.hotmart.com/ZcHtvT3O-9GHJbBtLSx16pkTu9E=/filters:background_color(white)/hotmart/product_pictures/d262070e-38dc-4ec5-be4d-a4c679792012/Logover01_produto2.jpg",
+      "emailProdutor": "guias@jardimcoloridosuculentas.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Animais e Plantas",
+	  "precoOriginal": "10,00",
+      "preco": "10,00",
+      "temperatura": "26",
+      "blueprint": "92",
+      "satisfacao": "4.27",
+      "thumb": "https://static-media.hotmart.com/elQV8gzKNvQHa6CHDDX1r5Uk-kM=/filters:background_color(white)/hotmart/product_pictures/a278af22-ab7c-4534-a499-363c1d43ca09/JARDIMCOLORIDOSuculentas.jpg",
       "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://formulatecladista.com/"
+        "site": "https://go.hotmart.com/V48222365I"
       },
-      "comprar": {
-        "hotlink": ""
-      }
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/V48222365I?ap=c6e4"
+	  }
     },
-    {
+	{
       "id": 11,
-      "nomeCurso": "Fórmula Tecladista (Duplicado)",
-      "descricaoCurso": "Tudo bem? O Treinamento Fórmula Tecladista é Um Projeto Grandioso... Conta com 9 módulos de base para estudo com aulas práticas, Possui Bônus excepcionais e já está sendo lançado com mais de 60 vídeo aulas gravadas na sua bem organizada e moderna área de membros. O treinamento tem um valor percebido muito grande, converte muito bem. A página de vendas está linda e tem todos os elementos de conversão e persuasão. Além de um vídeo de vendas que converte muito bem, ainda tenho uma sequencia de autoresponder que tem uma conversão muito boa! Portanto os seus esforços não serão desperdiçados, se quiser podemos crescer juntos e nada mais justo do que repassar 50% de comissão! Sozinho talvez possa ir mais rápido, mas juntos vamos mais longe!",
-      "conteudoCurso": "O Inigualável Treinamento Formula Tecladista é um curso com área de membros totalmente em vídeo aulas que ensinam o aluno passo a passo e do inicio ao fim Como Aprender a Tocar Teclado e Piano Popular de forma fluente... mesmo que ele nunca tenha tocado antes. Eu literalmente pego o aluno pela mão e guio durante todo o processo, mostrando cada etapa nos mínimos detalhes. O Curso possui 9 módulos. Já na fase de lançamento ele possui mais de 60 Vídeo Aulas onde eu vou desde os Passos Iniciais até o nível avançado onde o aluno passará a caminhar de forma criativa com os seus próprios passos. Ele terá condições para isso com as suas percepções desenvolvidas. Esta é a finalidade última do Treinamento. Os Bônus complementam a obra com: 1- Mini Curso de Teoria e Solfejo Rítmico. 2- Os 10 Primeiros Exercícios de Hanon. 3- The Secret Key - 12 aulas extraordinárias com o tecladista argentino Cristian Del Giorgio Comprei os direitos de revenda deste para presentear os meus alunos!",
+      "nomeCurso": "Secando em 28 dias",
+      "conteudoCurso": "Secando em 28 dias é o programa de emagrecimento que através de estratégias saudáveis, reeducação alimentar e receitas precisamente selecionadas, visa uma qualidade de vida melhor com a redução de até 12 Kg em 28 dias. De forma totalmente natural, sem passar por dietas malucas, sem passar fome e sem precisar frequentar uma academia todo dia.",
       "idioma": "Português (Brasil)",
-      "emailProdutor": "cursopianoparatodos@gmail.com",
-      "categoria": "Música e Artes",
-      "formato": "Cursos online, Área de Membros, Serviços de Assinatura",
-      "preco": "347,00",
-      "temperatura": "17",
+      "emailProdutor": "secandoem28dias@gmail.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Saúde e Esportes",
+	  "precoOriginal": "95,00",
+      "preco": "95,00",
+      "temperatura": "18",
       "blueprint": "100",
-      "satisfacao": "3.58",
-      "thumb": "https://static-media.hotmart.com/ZcHtvT3O-9GHJbBtLSx16pkTu9E=/filters:background_color(white)/hotmart/product_pictures/d262070e-38dc-4ec5-be4d-a4c679792012/Logover01_produto2.jpg",
+      "satisfacao": "4.64",
+      "thumb": "https://static-media.hotmart.com/JeoQx7zI6_6IPkzw8ovNCBcXw4o=/filters:background_color(white)/hotmart/product_pictures/291653da-d6d4-4c7a-80be-829b1ac3cffe/Designsemnome23.png",
       "divulgacao": {
-        "linkMaterial": "",
-        "videoExperimental": "",
-        "textoDivulgacao": "",
-        "site": "https://formulatecladista.com/"
+        "site": "https://go.hotmart.com/S48222587J"
       },
-      "comprar": {
-        "hotlink": ""
-      }
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/S48222587J?ap=996c"
+	  }
+    },
+	{
+      "id": 11,
+      "nomeCurso": "Curso de Desenho - Fórmula Desenhar Tudo",
+      "conteudoCurso": "O Fórmula Desenhar Tudo foi desenvolvido para transformar pessoas em desenhistas profissionais, posso até dizer que é uma fórmula mágica de como desenhar qualquer coisa. O método de ensino é totalmente "EXCLUSIVO" e único, já foi testado por milhares de pessoas e em poucas semanas tiveram resultados incríveis nos desenhos. Além de tudo o fórmula tem 3 módulos com mais de 30 Vídeo Aulas é muito conteúdo e um deles é sobre colorir, você vai aprender o passo a passo para se tornar um mestre das cores! Sim isso mesmo, você vai ainda dominar o lápis de cor e fazer desenhos profissionais super coloridos cheio de vida. O Curso é totalmente em vídeo aulas, você pode assistir por celular, tablet ou computador, tem acompanhamento total do professor Anderson Silva. Temos garantia total de 7 dias, devolvo seu dinheiro se não funcionar! Só tenho uma coisa a dizer eu e meus 10.000 Mil Alunos de garantimos que funciona com qualquer pessoa. Gerente do Produto. Anderson Silva.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "artworkand@outlook.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Design",
+	  "precoOriginal": "137,00",
+      "preco": "137,00",
+      "temperatura": "27",
+      "blueprint": "90",
+      "satisfacao": "4.81",
+      "thumb": "https://static-media.hotmart.com/orynBHcLbrMV92H_a3ZHPa69HHY=/filters:background_color(white)/hotmart/product_pictures/b8d51cc3-a8a4-4cc2-a722-2a442665d278/IMG20190928WA0004.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/E48222905Y"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/E48222905Y?ap=d6b6"
+	  }
+    },
+	{
+      "id": 11,
+      "nomeCurso": "Alongamento De Cílios Premium - Técnica Fio a Fio",
+      "conteudoCurso": "Curso online de alongamento de cílios com um passo a passo completo da técnica de alongamento de fio a fio clássico. Curso com aulas teóricas e aulas práticas. Certificado incluso. Com suporte via WhatsApp para sanar duvidas das alunas.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "suportemegacilios@hotmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Moda e Beleza",
+	  "precoOriginal": "97,00",
+      "preco": "97,00",
+      "temperatura": "40",
+      "blueprint": "90",
+      "satisfacao": "4.47",
+      "thumb": "https://static-media.hotmart.com/Yb9AWAb9FP67DdqnwDXo8Fm-C00=/filters:background_color(white)/hotmart/product_pictures/a9951729-e052-479b-9d62-3587def2995b/WhatsAppImage20200818at133014.jpeg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/S48223419N"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/S48223419N?ap=8973"
+	  }
+    },
+	{
+      "id": 12,
+      "nomeCurso": "Curso Pizzaiolo",
+      "conteudoCurso": "PÚBLICO ALVO Chefes de cozinha, cozinheiros, ajudantes de cozinha, estudantes de gastronomia, hotelaria e nutrição, proprietários e gerentes de restaurantes e interessados em geral. PROGRAMA - Origem da Pizza- Segurança Alimentar- Cuidados Básicos- Produtos de Limpeza- Melhores Praticas na Cozinha- Cuidados com Alimentos- Temperos na Pizza- Armazenamento de Temperos- Selecionando o Azeite- Tipos de Forno- Como se tornar um Pizzaiolo de Sucesso- Borda Recheada- Abrindo a Massa- 08 Tipos de Massa- 03 Tipos de Molho- 23 Tipos de Pizza Salgada- 12 Tipos de Pizza Doce- 04 Tipos de Calzones- 8 Vídeo Aulas em Resolução HD",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliados@cursopizzaiolotop.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Culinária e Gastronomia",
+	  "precoOriginal": "113,00",
+      "preco": "113,00",
+      "temperatura": "31",
+      "blueprint": "97",
+      "satisfacao": "3.95",
+      "thumb": "https://drive.google.com/file/d/1rGphnaqUn9U0Fsue8y2j-Y_EhA7PtUj9/view?usp=sharing",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/F48223910B"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/F48223910B?ap=da90"
+	  }
+    },
+	{
+      "id": 13,
+      "nomeCurso": "Animação Express Mão na roda AE!",
+      "conteudoCurso": "O curso Animação Express "Mão na roda AE!", é um curso voltado para aqueles que querem de uma forma rápida, criar ARTES E ANIMAÇÕES altamente profissionais em apenas 5 MINUTOS! Disponibilizamos mais de 1 MILHÃO de presets totalmente editáveis e vídeo aulas PASSO A PASSO te ensinando a editar esses presets. Obrigado por fazer o Mão na Roda AE! Se tornar a maior plataforma da internet hoje!",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "lennongarciaproducoes@gmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Design",
+	  "precoOriginal": "197,00",
+      "preco": "197,00",
+      "temperatura": "18",
+      "blueprint": "100",
+      "satisfacao": "3.61",
+      "thumb": "https://www.maonarodaae.com.br/wp-content/uploads/2020/10/Design-sem-nome-18-1-300x300.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/M48224140E"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/M48224140E?ap=0776"
+	  }
+    },
+	{
+      "id": 14,
+      "nomeCurso": "Curso Manutenção de Celular",
+      "conteudoCurso": "Aprenda Fazer Manutenção de Celulares começando do Zero, Curso Completo Online (Em Vídeo) mostra passo a passo como Iniciar no ramo que Mais Cresce no Brasil. MESMO QUE VOCÊ SEJA UM TOTAL INICIANTE.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "icontato@live.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Negócios e Carreira",
+	  "precoOriginal": "97,00",
+      "preco": "97,00",
+      "temperatura": "23",
+      "blueprint": "100",
+      "satisfacao": "3.93",
+      "thumb": "https://www.celularquebrado.com/wp-content/uploads/2020/02/Curso-Manutenção-de-Celular-Logo-300x148-1.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/N48224975O"
+      },
+	  "comprar":{
+		"hotlink": "https://pay.hotmart.com/H7643941P?ref=N48224975O&checkoutMode=0&bid=1614036110377"
+	  }
+    },
+	{
+      "id": 15,
+      "nomeCurso": "De 2 a 5 Mil com Ovos da Pascoa",
+      "conteudoCurso": "Com mais de 50 receitas de ovos de Páscoa contidas neste livro digital, além de você se tornar uma profissional qualificada, poderá faturar até 5 mil reais por mês. Isso porque o conteúdo conta com instruções detalhadas em produção e vendas. Além de que, ensina como fazer um maravilhoso e econômico leite condensado e trufas insufladas. Resumidamente, você encontra: - 50 receitas de Ovos de Páscoa - Tipos, processos e cuidados com o chocolate - Técnicas de produção, conservação e vendas - Materiais necessários. A apostila possui 113 páginas, sendo a mais detalhada e completa do mercado. Mas não é só isso, você ainda GANHA 4 BÔNUS EXCLUSIVOS: - 25 receitas de trufas insufladas - Como fazer leite condensado caseiro - 10 receitas de sobremesas - 11 receitas de Bombons. Esse e-book é para você que quer se especializar, está desempregada ou quer trabalhar em casa. Não perca tempo, faça como nossas alunas que estão faturando em média 2 mil reais por mês.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliadoeagle@gmail.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Culinária e Gastronomia",
+	  "precoOriginal": "47,00",
+      "preco": "47,00",
+      "temperatura": "36",
+      "blueprint": "94",
+      "satisfacao": "4.03",
+      "thumb": "https://static-media.hotmart.com/293j1DbMbNdl63ELV73JtVF5Zcs=/filters:background_color(white)/hotmart/product_pictures/e2d614c2-32bd-4c05-8174-08ea03b50fef/danovo.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/S48225548I"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/S48225548I?ap=7462"
+	  }
+    },
+	{
+      "id": 16,
+      "nomeCurso": "Curso de Unhas de Fibra de Vidro",
+      "conteudoCurso": "No Curso Profissional de Unhas de Fibra de Vidro da Esmalteria Nefertari com a Especialista Joana Darc você terá acesso a parte teórica e prática completa com videoaulas explicativas. Conteúdo do Curso: - Teoria Completa e Fundamentos - Lista de Materiais Utilizados - Como Fazer a Higienização - Como Fazer a Preparação - Como Separar e Aplicar a Fibra - Como Aplicar o Gel - Como Fazer a Secagem - Como Fazer o Ponto de Tensão - Como Fazer a Curvatura - Como Lixar e Fazer o Acabamento - Como Fazer a Remoção - Como Fazer a Manutenção - Bônus com aulas diversas. Tire todas as dúvidas diretamente com a professora Joana Darc dentro do curso. Tenha um diploma profissional emitido pelas maiores autoridades do país no assunto: A Esmalteria Nefertari e a A Joana D'arc.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliado@esmalterianefertari.com.br",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Moda e Beleza",
+	  "precoOriginal": "99,90",
+      "preco": "99,90",
+      "temperatura": "25",
+      "blueprint": "100",
+      "satisfacao": "4.61",
+      "thumb": "https://static-media.hotmart.com/bwYKGQmXV2JaziqiDfxN6pGMjeY=/filters:background_color(white)/hotmart/product_pictures/5b6b3a6c-336a-4ff3-9887-0520bcbc5953/divulgaocursounhasdefibradevidro.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/U48226028V"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/U48226028V?ap=31a4"
+	  }
+    },
+	{
+      "id": 16,
+      "nomeCurso": "Curso de Unhas de Fibra de Vidro",
+      "conteudoCurso": "No Curso Profissional de Unhas de Fibra de Vidro da Esmalteria Nefertari com a Especialista Joana Darc você terá acesso a parte teórica e prática completa com videoaulas explicativas. Conteúdo do Curso: - Teoria Completa e Fundamentos - Lista de Materiais Utilizados - Como Fazer a Higienização - Como Fazer a Preparação - Como Separar e Aplicar a Fibra - Como Aplicar o Gel - Como Fazer a Secagem - Como Fazer o Ponto de Tensão - Como Fazer a Curvatura - Como Lixar e Fazer o Acabamento - Como Fazer a Remoção - Como Fazer a Manutenção - Bônus com aulas diversas. Tire todas as dúvidas diretamente com a professora Joana Darc dentro do curso. Tenha um diploma profissional emitido pelas maiores autoridades do país no assunto: A Esmalteria Nefertari e a A Joana D'arc.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "afiliado@esmalterianefertari.com.br",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Moda e Beleza",
+	  "precoOriginal": "99,90",
+      "preco": "99,90",
+      "temperatura": "25",
+      "blueprint": "100",
+      "satisfacao": "4.61",
+      "thumb": "https://static-media.hotmart.com/bwYKGQmXV2JaziqiDfxN6pGMjeY=/filters:background_color(white)/hotmart/product_pictures/5b6b3a6c-336a-4ff3-9887-0520bcbc5953/divulgaocursounhasdefibradevidro.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/U48226028V"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/U48226028V?ap=31a4"
+	  }
+    },
+	{
+      "id": 17,
+      "nomeCurso": "Curso de Maquiagem Profissional Online",
+      "conteudoCurso": "No Curso Profissional de Unhas de Fibra de Vidro da Esmalteria Nefertari com a Especialista Joana Darc você terá acesso a parte teórica e prática completa com videoaulas explicativas. Conteúdo do Curso: - Teoria Completa e Fundamentos - Lista de Materiais Utilizados - Como Fazer a Higienização - Como Fazer a Preparação - Como Separar e Aplicar a Fibra - Como Aplicar o Gel - Como Fazer a Secagem - Como Fazer o Ponto de Tensão - Como Fazer a Curvatura - Como Lixar e Fazer o Acabamento - Como Fazer a Remoção - Como Fazer a Manutenção - Bônus com aulas diversas. Tire todas as dúvidas diretamente com a professora Joana Darc dentro do curso. Tenha um diploma profissional emitido pelas maiores autoridades do país no assunto: A Esmalteria Nefertari e a A Joana D'arc.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "mascarenhasbh@gmail.com",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Moda e Beleza",
+	  "precoOriginal": "97,00",
+      "preco": "97,00",
+      "temperatura": "25",
+      "blueprint": "100",
+      "satisfacao": "4.61",
+      "thumb": "https://static-media.hotmart.com/LNdmAUcu3ChBtB6UQknHkC0zLfA=/filters:background_color(white)/hotmart/product_pictures/8ed1187e-2b49-4e02-9cc1-f19f9f571c1b/capa200x200R07.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/A48226285V"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/A48226285V?ap=264f"
+	  }
+    },
+	{
+      "id": 18,
+      "nomeCurso": "Full-Stack completo em Java Web",
+      "conteudoCurso": "→ Formação completa com mais de 989 vídeos aulas. → Esse curso é destinado a programadores de sistemas em Java que estão iniciando, se formando ou que já trabalham nesta área e querem se especializar. → O curso ensina do básico ao profissional → Maior curso de Java Web do Brasil criado por especialista. → Possuí mais de 14 páginas e links para divulgação do curso. → Curso único e sem concorrência na Hotmart e com alta conversão. → Curso no momento está com média de 20 vendas diária e 50% de comissão. → Então você trabalhando como afiliado terá ótimos ganhos realizando um ótimo trabalho. → Leia todos os detalhes e baixe também o material de apoio. → Configurado todos os HotLinks alternativos e links de página para divulgação. → Afiliação está aberta para você começar a divulgar agora mesmo. →Confira todas as página de divulgação, mídias de divulgação e material de apoio.",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "contato@jdevtreinamento.com.br",
+	  "formaDeAcesso": "Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Tecnologia da Informação",
+	  "precoOriginal": "497,00",
+      "preco": "197,00",
+      "temperatura": "17",
+      "blueprint": "91",
+      "satisfacao": "4.70",
+      "thumb": "https://static-media.hotmart.com/VUZm4UyB_gjgkJ0hytgCO3rsfyA=/filters:background_color(white)/hotmart/product_pictures/aafbd880-ac36-4de4-8d67-339b2745010d/JAVAWEB.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/K48226851X"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/K48226851X?ap=b39e"
+	  }
+    },
+	{
+      "id": 19,
+      "nomeCurso": "Curso Mecânico de Moto Completo | Academia do Mecânico",
+      "conteudoCurso": "O Curso de Mecânica de Motos ensina desde a mecânica básica até a mecânica avançada. Você irá aprender consertos básicos de rotina com explicações detalhadas e ilustradas. O curso fala também sobre o funcionamento do motor. CONTEÚDO: • Teoria Básica de Motores à Explosão • Definição de Motor• Cabeçote • Cilindro • Cárter • Taxa de compressão - Motores à Gasolina• Cilindrada • Taxa de Compressão • Motor Diesel • Motores de 2 Tempos • Ciclo de Motor 2T • Ciclo de Motor2T – Escape • Palhetas • Lubrificação • Mistura Diretamente no Tanque de Combustível • Gráficos de Proporção • Óleo - Gasolina X Rotação • Sistema Autolube • Manutenção Básica - Sangria do Autolube • Descarbonização • Sistema de Escape • Efeito de Expulsão dos Gases por Pulsação de Escape • Escapamento Comum • Entrada da Mistura AR \ Combustível No Cárter • Motores 4 Tempos • Características dos Motores de Quatro Tempos • Fase de Admissão • Fase de Compressão • Fase de Explosão • Fase de Escape • Pistão Motor de Quatro",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "academiadomecanico@gmail.com",
+	  "formaDeAcesso": "Arquivo Digital"
+	  "formato":"eBooks, Documentos",
+      "categoria": "Negócios e Carreira",
+	  "precoOriginal": "350,00",
+      "preco": "350,00",
+      "temperatura": "14",
+      "blueprint": "94",
+      "satisfacao": "3.40",
+      "thumb": "https://static-media.hotmart.com/pg_O0tE8dW-In8fIY07nZqjUoec=/filters:background_color(white)/hotmart/product_pictures/75879c4a-3eaa-4216-a7d1-40a2482e985b/CursoMecanicadeMoto.jpg",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/G48227500S"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/G48227500S?ap=3a08"
+	  }
+    },
+	{
+      "id": 20,
+      "nomeCurso": "Aulas de Manicure e Pedicure (Iniciante) Faby Cardoso",
+      "conteudoCurso": "Nestas aulas de manicure da Faby Cardoso pode contar com vídeos 100% práticos onde irá aprender: - Sobre cutículas mãos e pés; - Unhas francêsinhas perfeitas nas mãos e nos pé; - Como passar o esmalte nude sem manchar; -Como tirar o borrado corretamente das unhas; - Como colocar adesivos artesanais; - E muito mais... Esclareça todas as suas dúvidas e se torne uma manicure melhor!",
+      "idioma": "Português (Brasil)",
+      "emailProdutor": "atendimento@coeditora.com",
+	  "formaDeAcesso": " Membership (Site de Membros)"
+	  "formato":"Cursos Online, Área de Membros, Serviços de Assinatura",
+      "categoria": "Moda e Beleza",
+	  "precoOriginal": "149,00",
+      "preco": "149,00",
+      "temperatura": "84",
+      "blueprint": "92",
+      "satisfacao": "4.82",
+      "thumb": "https://static-media.hotmart.com/ckpyIbT64TLMzskb3vsbShUoIFo=/filters:background_color(white)/hotmart/product_pictures/2e150f34-5e9c-445c-ad28-e9691633402c/cursohotmart.png",
+      "divulgacao": {
+        "site": "https://go.hotmart.com/A48227791X"
+      },
+	  "comprar":{
+		"hotlink": "https://go.hotmart.com/A48227791X?ap=c273"
+	  }
     }
   ]
 }
