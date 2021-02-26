@@ -48,6 +48,20 @@ app.get('/categories', async (req, res) => {
 })
 
 
+app.get('/course/:id', async (req, res) => {
+  try {
+    const cursos = JSON.parse(await fs.readFileSync("moldeCursos.json"))
+    const resultCursos = cursos.cursos.find(curso => curso.id === parseInt(req.params.id))
+    res.send(resultCursos)
+
+    res.end();
+  } catch (err) {
+    res.status(400).send({ error: err.message })
+  }
+})
+
+
+
 app.get('/trails', async (req, res) => {
   const categorias = []
   const categoriasMaked = []
