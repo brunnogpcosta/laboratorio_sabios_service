@@ -1,10 +1,13 @@
 import express from 'express'
 import courses from './routes/courses.js'
+import cors from 'cors'
 import { promises as fs } from "fs";
 
 const { readFile, writeFile } = fs;
 
 const app = express();
+
+app.use(cors())
 app.use(express.json())
 app.use('/laboratorio', courses)
 
