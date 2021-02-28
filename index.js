@@ -3,13 +3,16 @@ import courses from './routes/courses.js'
 import cors from 'cors'
 import { promises as fs } from "fs";
 
-const { readFile, writeFile } = fs;
+const { readFile } = fs;
 
 const app = express();
 
-app.use(cors())
+
 app.use(express.json())
+app.use(cors())
 app.use('/laboratorio', courses)
+
+
 
 app.listen(process.env.PORT || 3001, async () => {
   try {
