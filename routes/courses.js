@@ -21,7 +21,6 @@ router.get('/allCourses', async (req, res) => {
 })
 
 router.get('/courses/limit/:id', async (req, res) => {
-
   try {
     const json = JSON.parse(await readFile('moldeCursos.json'))
     const nCourses = req.url.replace("/courses/limit/", "")
@@ -35,6 +34,29 @@ router.get('/courses/limit/:id', async (req, res) => {
       }
     });
 
+    res.send(cursosDisponiveis)
+    res.end();
+  } catch (err) {
+    res.status(400).send({ error: err.message })
+  }
+})
+
+
+
+
+router.get('/courses/categories/:name', async (req, res) => {
+  try {
+    const json = JSON.parse(await readFile('moldeCursos.json'))
+    const nCourses = req.url.replace("/courses/limit/", "")
+    let contador = 0;
+    const cursosDisponiveis = []
+
+    json.cursos.forEach(element => {
+      contador = contador + 1;
+      if (contador <= nCourses) {
+        cursosDisponiveis.push(element)
+      }
+    });
 
     res.send(cursosDisponiveis)
     res.end();
@@ -42,6 +64,11 @@ router.get('/courses/limit/:id', async (req, res) => {
     res.status(400).send({ error: err.message })
   }
 })
+
+
+
+
+
 
 
 
